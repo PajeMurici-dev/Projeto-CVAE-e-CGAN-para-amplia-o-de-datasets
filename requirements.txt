@@ -1,0 +1,7 @@
+torch>=2.0
+medmnist>=3.0        
+pandas>=2.0
+scipy>=1.10
+scikit-learn>=1.2
+matplotlib>=3.7
+jinja2>=3.1         
